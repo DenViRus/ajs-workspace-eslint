@@ -1,5 +1,6 @@
 {
   "scripts": {
+    "build": "cp src/**.js dist/",
     "lint": "eslint ."
   },
   "devDependencies": {
